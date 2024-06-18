@@ -79,22 +79,22 @@ Some common examples of generative AI technologies include:
 ## Does it think it is smart?
 ![](img/gpt4.png)
 
-## What about me, then?
+## No need for humans, then?
 
 ![](img/gpt5.png)
 
 ## What does this tell us?
 
 
-## What is generative AI?
+## What about other AI tools?
 
 ![](img/sdf1.png)
 
-## What is generative AI?
+## With a bit of replication
 
 ![](img/sdf2.png) 
 
-## What is generative AI?
+## And hallucination
 
 ![](img/sdf3.png)
 
