@@ -68,11 +68,11 @@ Some common examples of generative AI technologies include:
 
 ![](img/gpt1.png)
 
-## What does it thinks it looks like?
+## What does it think it looks like?
 
 ![](img/gpt2.png)
 
-## What does it thinks it looks like?
+## What does it think it looks like?
 
 ![](img/gpt3.png)
 
